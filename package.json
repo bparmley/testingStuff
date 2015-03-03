@@ -1,0 +1,14 @@
+{
+  "name": "testingNode",
+  "version": "1.0.0",
+  "description": "Sample testing in Node",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Landon Conover",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "^1.6.0"
+  }
+}
