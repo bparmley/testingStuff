@@ -2,7 +2,7 @@
   "name": "testingNode",
   "version": "1.0.0",
   "description": "Sample testing in Node",
-  "main": "main.js",
+  "main": "math.js",
   "scripts": {
     "test": "mocha"
   },
