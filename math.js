@@ -7,3 +7,7 @@ exports.adder = function () {
 
     return sum;
 }
+
+exports.multiplyer = function () {
+
+}

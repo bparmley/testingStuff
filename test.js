@@ -16,3 +16,16 @@ describe('addr', function () {
 
 })
 
+describe('multiplyer', function () {
+    it('should multply numers', function () {
+        expect(math.multiplyer(1,2)).toBe(1 *2);
+    });
+
+    it('should multply lots of numers', function () {
+        expect(math.multiplyer(1,2,3,4,5,6)).toBe(1*2*3*4*5*6);
+    });
+
+    it('should be a number', function () {
+        expect(math.multiplyer(1,2)).toBeA('number')
+    });
+})
