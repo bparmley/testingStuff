@@ -5,7 +5,7 @@ exports.adder = function () {
     return sum;
 }
 
-//This function should add the aguments together
+//This function should multiply the aguments together
 exports.multiplyer = function () {
     var product;
 
