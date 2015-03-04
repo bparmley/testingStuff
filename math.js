@@ -1,19 +1,13 @@
+//This function should add the arguments together
 exports.adder = function () {
-    var sum = 0;
-
-    for (var i = 0; i < arguments.length; i++) {
-        sum = sum + arguments[i];
-    };
-
+    var sum;
+    
     return sum;
 }
 
+//This function should add the aguments together
 exports.multiplyer = function () {
-    var product = 1;
-
-    for (var i = 0; i < arguments.length; i++) {
-        product = product * arguments[i];
-    };
+    var product;
 
     return product;
 }
