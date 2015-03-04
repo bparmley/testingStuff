@@ -11,7 +11,7 @@ This repo is designed to bring JS testing down the simple bare bones, and learn 
 ##Instructions
 1. Clone this repo localy
 2. npm install
-3. Install Mocha - npm install -f mocha
+3. Install Mocha globally - npm install -g mocha
 3. Write tests in the test.js file. See comments in math.js to know what the functions should do.
 4. Run npm test (or mocha) to see the tests fail
 5. Write functions in math.js
