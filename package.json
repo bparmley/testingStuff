@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Landon Conover",
+  "author": "Your Name Here",
   "license": "ISC",
   "devDependencies": {
     "expect": "^1.6.0"
